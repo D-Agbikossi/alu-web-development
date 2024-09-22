@@ -22,3 +22,36 @@ aside {
     flex: 1;
     overflow-y: auto
 }
+
+/* Customisation */
+body {
+    height: 100vh;
+    margin: 0;
+    font: italic 18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+
+article {
+    background-color: #ed5c5c;
+    padding: 20px;
+    text-align: justify;
+}
+
+aside {
+    background-color: #dd6b6b;
+    padding: 20px;
+    text-align: justify;
+}
+
+header {
+    text-align: center;
+    background-color: #e51c1c;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: #dd6b6b;
+    padding: 10px;
+}
